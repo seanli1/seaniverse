@@ -1,1 +1,3 @@
-Thanks for checking out my site!
+# Welcome!
+
+Thanks for visiting my site.
