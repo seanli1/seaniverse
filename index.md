@@ -1,3 +1,1 @@
-# Notes
-
-2023-01-09: something something
+Thanks for checking out my site!
