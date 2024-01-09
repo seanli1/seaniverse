@@ -1,5 +1,3 @@
-# Welcome to Seaniverse!
+# Notes
 
-This is some updated text. Here we go!
-
- - Sean
+2023-01-09: something something
