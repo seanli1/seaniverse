@@ -4,6 +4,4 @@ Thanks for visiting my site.
 
 # Lighting
 
-**bold**
-
-*italic*
+[Some Lighting Concept](somelightingconcept.md)
